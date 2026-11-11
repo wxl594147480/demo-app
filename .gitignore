@@ -1,6 +1,7 @@
 # 环境变量文件绝不入库
 .env
 .env.*
+*.pem
 !.env.example
 
 node_modules/
